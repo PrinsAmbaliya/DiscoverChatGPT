@@ -42,3 +42,12 @@ A Discord bot integrated with Groq AI to provide conversational responses and si
 - Query Stored Data: Use what is <key> to retrieve data (e.g., what is name returns John).
 - AI Chat: Mention the bot with a question or message (e.g., @Bot Tell me about AI), and it will respond using Groq AI.
 
+---
+
+## Author
+Prins Ambaliya
+
+GitHub: PrinsAmbaliya
+
+LinkedIn: https://www.linkedin.com/in/prins-ambaliya-bb7546367
+
